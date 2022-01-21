@@ -1,0 +1,26 @@
+
+.header__logo__inner{
+    display:flex;
+    justify-content: space-around;
+}
+
+
+.features__card__date{
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+}
+.features__card__img>img{
+    width: 100px;
+    height: 100px;
+}
+
+.features__card{
+    width: 30%;
+}
+
+.features__card__img{
+    display: flex;
+    justify-content: center;
+}
